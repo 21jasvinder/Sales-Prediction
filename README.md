@@ -1,2 +1,5 @@
-Problem
-Sales prediction involves forecasting the amount of a product that customers will purchase, taking into account various factors such as advertising expenditure, target audience segmentation, and advertising platform selection.
+This is Task 4 of my CODSOFT internship of data science.
+
+TASK 4 - Sales Prediction
+
+In the Sales Prediction Project,
